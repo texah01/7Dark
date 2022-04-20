@@ -1,23 +1,4 @@
 
-
-
-
-
-
-
-
--- ตั้งค่า ปิด = nil เปิด = true
-_G.Key_AutoReMap = true
-_G.Key_AutoRaid = true
-_G.Key_Boss_Raid_Freeze = true
-_G.Key_AutoFarm = true
-_G.Key_AutoSkill_All = true
-_G.Key_AutoSkill_Assist = true
-_G.Key_AutoClick = true
-_G.Key_Ui_Close = true
-_G.Key_AFK_Lobby = true
-
-
 -- ห้ามปรับอะไรตรงนี้
 
 -- ตรงนี้ไป คือห้ามเปลียนแปลงอะไร
